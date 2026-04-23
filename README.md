@@ -1,3 +1,6 @@
+
+Simple log Analyzer project to practice C++
+<img width="923" height="612" alt="notepad_riqYbYFlc7" src="https://github.com/user-attachments/assets/7f6fec04-c3de-4a88-9bcd-331c06e157c7" />
 # Log Analyzer
 
 A C++ command-line tool that reads a log file and produces a summary report including log level counts and the most frequently occurring messages.
